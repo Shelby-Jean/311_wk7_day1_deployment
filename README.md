@@ -100,3 +100,4 @@ Essentially, what this connection allows us to do is run the app locally with on
 If all went according to plan we now have now deployed our API to a publicly accessible service and tested it to make sure it's working as expected.
 
 Upload the public URL for the HW assignment. 
+https://abstract-frame-288421.ue.r.appspot.com/
